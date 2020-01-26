@@ -1,4 +1,3 @@
-# main.cpp
 ```
 //библиотеки
 #pragma comment(lib, "audiere.lib") //подключение библиотеки Audiere
