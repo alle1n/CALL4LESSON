@@ -1,4 +1,5 @@
 # main.cpp
+```
 //библиотеки
 #pragma comment(lib, "audiere.lib") //подключение библиотеки Audiere
 #include <iostream> //ввод/вывод  
@@ -21,3 +22,4 @@ signed int main() //главная функция
 	
 	return 0; //завершение программы (можно не писать)
 }
+```
